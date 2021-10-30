@@ -58,7 +58,7 @@ ___
 Open a console extract the zip file, get into extracted the folder 
 and run:
 
-`mvn clean install package -U"`
+`mvn clean install package -U`
 `mvn spring-boot:run -D spring-boot.run.arguments="[PATH]"`
 
 where [PATH] can be strings like c:\documents, d:\assessment /home/user1 etc
